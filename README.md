@@ -2,7 +2,7 @@ Smarty Prestashop Hook
 ======================
 
 
-With this [Smarty](http://www.smarty.net/) plugin used in a [Prestashop](http://www.prestashop.com) online shop, you will be able, as a module developer or a theme designer, to call Prestahsop hooks directly into your templates files.
+With this [Smarty](http://www.smarty.net/) plugin used in a [Prestashop](http://www.prestashop.com) online shop, you will be able, as a module developer or a theme designer, to call Prestahsop hooks directly from your templates files.
 
 
 
